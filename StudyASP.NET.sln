@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "AutoMapper\AutoMapper.csproj", "{BD5D6E21-60C8-4E79-A4D5-8FFFC795B662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC\IoC.csproj", "{2BFEA94A-126F-45FB-B6F1-4DC991D14C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkBasics", "EntityFrameworkBasics\EntityFrameworkBasics.csproj", "{3DEB3714-3694-4A52-B583-D5F93A3333F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5D6E21-60C8-4E79-A4D5-8FFFC795B662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5D6E21-60C8-4E79-A4D5-8FFFC795B662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5D6E21-60C8-4E79-A4D5-8FFFC795B662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5D6E21-60C8-4E79-A4D5-8FFFC795B662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFEA94A-126F-45FB-B6F1-4DC991D14C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFEA94A-126F-45FB-B6F1-4DC991D14C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFEA94A-126F-45FB-B6F1-4DC991D14C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFEA94A-126F-45FB-B6F1-4DC991D14C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEB3714-3694-4A52-B583-D5F93A3333F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEB3714-3694-4A52-B583-D5F93A3333F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEB3714-3694-4A52-B583-D5F93A3333F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEB3714-3694-4A52-B583-D5F93A3333F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
