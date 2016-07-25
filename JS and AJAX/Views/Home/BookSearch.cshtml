@@ -1,0 +1,13 @@
+﻿@model IEnumerable<JS_and_AJAX.Models.Book>
+
+<div id="results">
+    <h3>All the books of the author : @Model.First().Author </h3>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+
+</div>
+
